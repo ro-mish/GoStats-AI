@@ -127,3 +127,9 @@ In prompts.txt, we display the conversation that I had with Claude 3.5 Sonnet. I
 In conclusion, we see that the use of AI assistance and co-pilots in programming significantly improves developer speeds. In short, it allows us to use text-to-code modeling that can not only interpret a developer's requests but also consider autonomously the best decisions for a project and code base. 
 In this case my recommendation to management is to not necessarily reduce developer workforce sizes but rather enroll subscriptions to AI assistants and co-pilots to improve developer productivity. Fundamentally, I think that humans and AI can work synergistically towards developing much more robust and advanced software beyond what is the current industry standard. In any case the state of the art will always push boundaries and humans will currently still be in the loop for this. As a general rule for this specific case, I recommend getting everybody subscriptions to either VS Code co-pilotm, Cursor, or even Windsurf by Codeium. 
 Any developer friendly tool that leverages AI to generate code will be paramount in a company's success because it not only improves speed, but also the readability and maintainability of code given that certain developers may or may not follow certain practices. Having an AI that can standardize all of these different heterogeneous sources of code into one homogenous and efficient implementation is incredibly valuable. 
+
+## Links used for this assignment
+
+- https://techhq.com/2025/01/ai-tools-for-code-completion/
+- https://codesubmit.io/blog/ai-code-tools/
+- https://www.forbes.com/sites/bernardmarr/2024/06/07/generative-ai-can-write-computer-codewill-we-still-need-software-developers/
