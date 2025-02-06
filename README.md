@@ -111,6 +111,7 @@ Another underrated feature about CodeGen in this case is the UI of the IDE. In a
 ### AI Generated Code
 
 Below is a directory structure:
+```
 anscombe/
 ├── go.mod         # Module definition (AI Generated)
 └── main.go        # Main program file with all code (AI Generated)
@@ -118,6 +119,7 @@ go.mod             # AI Generated mod file
 
 
 prompts.txt        # All prompts that are being used by Claude 3.5 Sonnet
+```
 
 In prompts.txt, we display the conversation that I had with Claude 3.5 Sonnet. In this specific instance we asked several different questions to Claude specifically around taking in the project requirements and being able to generate code that solves the requirements. In doing so the LLM was very quick in outputting the code required for the task while also considering the project directory structure and overall functionality of the program. One key feature that I noticed was the ability for the model to generate instructions that helps a developer run all of the code in a seamless manner. This seamlessness in the output is incredibly important moving forward because it allows for not only basic code generation, it creates an end-to-end instruction set that allows for anybody to pick up code and run it!
 
